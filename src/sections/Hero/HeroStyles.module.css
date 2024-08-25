@@ -54,6 +54,7 @@
     .description {
         max-width: 24ch;
         align-self: center;
+        font-size: 20px;
     }
 
     .hover {
