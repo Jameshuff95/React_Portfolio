@@ -14,26 +14,26 @@ function Projects() {
         <ProjectCard 
             src={viberr} 
             link="https://github.com/Jameshuff95/simplified_tetris"
-            h3="Viberr" 
-            p="Test"
+            h3="Tetris Project" 
+            p="A simplified version of the classic game 'Tetris'."
         />
         <ProjectCard 
             src={FreshBurger} 
             link="https://github.com/Jameshuff95/simplified_tetris"
-            h3="FreshBurger" 
-            p="Test2"
+            h3="Project Two" 
+            p=" Project two text."
         />
         <ProjectCard 
             src={Hipster} 
             link="https://github.com/Jameshuff95/simplified_tetris"
-            h3="Hipster" 
-            p="Test3"
+            h3="Project Three" 
+            p="Project three text."
         />
         <ProjectCard 
             src={FitLift} 
             link="https://github.com/Jameshuff95/simplified_tetris"
-            h3="FitLift" 
-            p="Test4"
+            h3="Project Four" 
+            p="Project four text."
         />
       </div>
     </section>

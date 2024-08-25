@@ -40,7 +40,7 @@ function Hero() {
                     </a>
                 </span>
                 <p className={styles.description}>With a passion for creating modern React web apps for commercial businesses.</p>
-                <a href={Resume} download value="James_Huff_Resume"><button className="hover">Resume</button></a>
+                <a href={Resume} download="James_Huff_Resume"><button className="hover">Resume</button></a>
             </div>
         </section>
     )
