@@ -29,18 +29,18 @@ function Hero() {
                 <h1>James <br /> Huff</h1>
                 <h2>Software Engineering Student</h2>
                 <span>
-                    <a className="social_link" href="https://twitter.com/" target="_blank">
+                    <a className="social_link" href="https://x.com/ThisReactGuy" target="_blank">
                         <img src={twitterIcon} alt="Twitter Logo" className="social_image" />
                     </a>
-                    <a className="social_link" href="https://github.com/" target="_blank">
+                    <a className="social_link" href="https://github.com/Jameshuff95" target="_blank">
                         <img src={githubIcon} alt="Github Logo" className="social_image" />
                     </a>
-                    <a className="social_link" href="https://linkedin.com/" target="_blank">
+                    <a className="social_link" href="https://www.linkedin.com/in/jameshuff95/" target="_blank">
                         <img src={linkedinIcon} alt="LinkedIn Logo" className="social_image" />
                     </a>
                 </span>
                 <p className={styles.description}>With a passion for creating modern React web apps for commercial businesses.</p>
-                <a href={Resume} download="James_Huff_Resume"><button className="hover">Resume</button></a>
+                <a href={Resume} download="James_Huff_Resume"><button className="hover">Download Resume</button></a>
             </div>
         </section>
     )

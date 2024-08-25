@@ -29,7 +29,7 @@ input, textarea {
     justify-self: center;
     background-color: var(--bacground-color);
     color: var(--form-text-color);
-    width: 100%;
+    width: 90%;
 }
 
 ::placeholder {
