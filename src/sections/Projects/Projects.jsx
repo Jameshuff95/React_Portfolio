@@ -14,7 +14,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard 
             src={Weather} 
-            link="https://github.com/Jameshuff95/simplified_tetris"
+            link="https://splendorous-biscuit-86ea14.netlify.app/?fbclid=IwY2xjawE8taxleHRuA2FlbQIxMAABHfjYGUlqWO9DILQmNrJ_9vF2ExWaolNqRIVqEj4WV-67hFn_LyfyWXtCPA_aem_3cweCniQXw62j3mp_AXHQQ"
             h3="Weather App" 
             p="An online weather app written with React.js & SCSS: deployed with Netlify."
         />
