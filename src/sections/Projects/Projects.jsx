@@ -15,30 +15,35 @@ function Projects() {
         <ProjectCard 
             src={Weather} 
             link="https://splendorous-biscuit-86ea14.netlify.app/?fbclid=IwY2xjawE8taxleHRuA2FlbQIxMAABHfjYGUlqWO9DILQmNrJ_9vF2ExWaolNqRIVqEj4WV-67hFn_LyfyWXtCPA_aem_3cweCniQXw62j3mp_AXHQQ"
+            target="_blank"
             h3="Weather App" 
             p="An online weather app written with React.js & SCSS: deployed with Netlify."
         />
         <ProjectCard 
             src={Tetris} 
             link="https://github.com/Jameshuff95/simplified_tetris"
+            target="_blank"
             h3="Tetris Project" 
             p="A simplified version of the classic game 'Tetris' created with Python."
         />
         <ProjectCard 
             src={Snake} 
             link="https://github.com/Jameshuff95/retro_snake_game"
+            target="_blank"
             h3="Classic-style Snake" 
             p="A collaboration of classic and retro-style Snake game created with Python, specifically the Pygame library.PyGame."
         />
         <ProjectCard 
             src={PostgreSQL} 
             link="https://github.com/Jameshuff95/celestial-bodies-database-PostgreSQL"
+            target="_blank"
             h3="PostgreSQL Database" 
             p="A PostgreSQL database of celestial bodies."
         />
         <ProjectCard 
             src={Quiz} 
             link="https://github.com/Jameshuff95/Quiz-Game"
+            target="_blank"
             h3="Quiz Game" 
             p="A quiz app created with HTML, CSS and vanilla Javascript."
         />
