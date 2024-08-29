@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './ProjectsStyles.module.css'
 import viberr from '../../assets/viberr.png'
 import ProjectCard from '../../common/ProjectCard'
-import FreshBurger from '../../assets/fresh-burger.png'
+import Snake from '../../assets/cartoon_snake.png'
 import Hipster from '../../assets/hipsster.png'
 import FitLift from '../../assets/fitlift.png'
 
@@ -18,7 +18,7 @@ function Projects() {
             p="A simplified version of the classic game 'Tetris' created with Python."
         />
         <ProjectCard 
-            src={FreshBurger} 
+            src={Snake} 
             link="https://github.com/Jameshuff95/retro_snake_game"
             h3="Classic-style Snake" 
             p="A collaboration of classic and retro-style Snake game created with Python, specifically the Pygame library.PyGame."
