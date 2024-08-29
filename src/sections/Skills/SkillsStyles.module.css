@@ -28,7 +28,7 @@
     }
 
     hr {
-        width: fit-content;
+        width: 40%;
         height: 1px;
         border: none;
         background-color: var(--text-color);
