@@ -3,7 +3,7 @@ import styles from './ProjectsStyles.module.css'
 import viberr from '../../assets/viberr.png'
 import ProjectCard from '../../common/ProjectCard'
 import Snake from '../../assets/cartoon_snake.png'
-import PostgreSQL from '../../assets/hipsster.png'
+import PostgreSQL from '../../assets/postgres.png'
 import FitLift from '../../assets/fitlift.png'
 
 function Projects() {
