@@ -5,7 +5,7 @@ import Tetris from '../../assets/tetris.png'
 import ProjectCard from '../../common/ProjectCard'
 import Snake from '../../assets/cartoon_snake.png'
 import PostgreSQL from '../../assets/postgres.png'
-import FitLift from '../../assets/fitlift.png'
+import Quiz from '../../assets/question_mark.png'
 
 function Projects() {
   return (
@@ -37,7 +37,7 @@ function Projects() {
             p="A PostgreSQL database of celestial bodies."
         />
         <ProjectCard 
-            src={FitLift} 
+            src={Quiz} 
             link="https://github.com/Jameshuff95/Quiz-Game"
             h3="Quiz Game" 
             p="A quiz app created with HTML, CSS and vanilla Javascript."
