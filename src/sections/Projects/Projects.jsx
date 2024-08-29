@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './ProjectsStyles.module.css'
-import Weather from '../../assets/weather_calm'
+import Weather from '../../assets/weather_calm.png'
 import Tetris from '../../assets/tetris.png'
 import ProjectCard from '../../common/ProjectCard'
 import Snake from '../../assets/cartoon_snake.png'
