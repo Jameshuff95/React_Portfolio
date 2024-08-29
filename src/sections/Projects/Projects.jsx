@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './ProjectsStyles.module.css'
-import viberr from '../../assets/viberr.png'
+import Weather from '../../assets/weather_calm'
+import Tetris from '../../assets/tetris.png'
 import ProjectCard from '../../common/ProjectCard'
 import Snake from '../../assets/cartoon_snake.png'
 import PostgreSQL from '../../assets/postgres.png'
@@ -12,7 +13,13 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard 
-            src={viberr} 
+            src={Weather} 
+            link="https://github.com/Jameshuff95/simplified_tetris"
+            h3="Weather App" 
+            p="An online weather app written with React.js & SCSS: deployed with Netlify."
+        />
+        <ProjectCard 
+            src={Tetris} 
             link="https://github.com/Jameshuff95/simplified_tetris"
             h3="Tetris Project" 
             p="A simplified version of the classic game 'Tetris' created with Python."
