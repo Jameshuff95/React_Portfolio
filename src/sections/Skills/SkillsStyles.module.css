@@ -28,7 +28,7 @@
     }
 
     hr {
-        width: 200px;
+        width: fit-content;
         height: 1px;
         border: none;
         background-color: var(--text-color);
@@ -43,9 +43,5 @@
         p {
             font-size: 20px;
         }
-    }
-
-    hr {
-        width: 300px;
     }
 }
