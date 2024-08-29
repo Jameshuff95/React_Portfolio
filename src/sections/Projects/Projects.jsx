@@ -3,7 +3,7 @@ import styles from './ProjectsStyles.module.css'
 import viberr from '../../assets/viberr.png'
 import ProjectCard from '../../common/ProjectCard'
 import Snake from '../../assets/cartoon_snake.png'
-import Hipster from '../../assets/hipsster.png'
+import PostgreSQL from '../../assets/hipsster.png'
 import FitLift from '../../assets/fitlift.png'
 
 function Projects() {
@@ -24,7 +24,7 @@ function Projects() {
             p="A collaboration of classic and retro-style Snake game created with Python, specifically the Pygame library.PyGame."
         />
         <ProjectCard 
-            src={Hipster} 
+            src={PostgreSQL} 
             link="https://github.com/Jameshuff95/celestial-bodies-database-PostgreSQL"
             h3="PostgreSQL Database" 
             p="A PostgreSQL database of celestial bodies."
